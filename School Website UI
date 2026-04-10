@@ -1,6 +1,7 @@
-🏫 AI Assisted UI Hackathon Challenge
-📌 Task: Build a School Website (Browser-Based)
-🎯 Objective
+ AI Assisted UI Hackathon Challenge
+ Task: Build a School Website (Browser-Based)
+
+Objective:-
 
 Design and develop a simple, clean, and user-friendly School Website using HTML and CSS only, which runs locally in a web browser (no hosting or deployment required).
 
@@ -9,39 +10,45 @@ The goal is to test:
 Basic web development skills
 UI design sense
 Logical structuring of content
-🧩 Functional Requirements
+ Functional Requirements
 
 Students must create a website with the following minimum sections/pages:
 
-🏠 1. Home Page (index.html)
+ 1. Home Page (index.html)
 School name/logo
 Welcome message
 Banner or heading section
 Navigation menu linking to other sections/pages
-📘 2. About Section
+
+ 2. About Section
 Vision and Mission
 Brief history of the school
 Achievements (optional)
-📚 3. Academics Section
+
+ 3. Academics Section
 List of subjects (Science, Commerce, Arts, etc.)
 Facilities (Library, Lab, Sports, etc.)
-👨‍🏫 4. Staff Section
+
+4. Staff Section
 List of teachers
 Roles (Principal, Teachers, Staff)
-📢 5. Notices Section
+
+5. Notices Section
 School announcements
 Events
 Exam schedules
-📞 6. Contact Section
+
+6. Contact Section
 Phone number
 Email address
 School address
 (Optional) Simple contact form
-🔻 7. Footer (Common in all pages)
+
+7. Footer (Common in all pages)
 
 Website must run by simply opening:
-👉 index.html in browser
-📁 Suggested Folder Structure
+ index.html in browser
+ Suggested Folder Structure
 school-website/
 │
 ├── index.html
@@ -56,7 +63,7 @@ school-website/
 │
 ├── images/
 │   └── (all images here)
-🎨 Design Guidelines
+ 
 
 Students should ensure:
 
@@ -65,7 +72,7 @@ Proper alignment and spacing
 Consistent colors and fonts
 Readable text
 Easy navigation
-🧠 Creativity Freedom
+Creativity Freedom
 
 Students are encouraged to:
 
@@ -73,21 +80,19 @@ Add images and icons
 Use different color themes
 Add hover effects (CSS)
 Try simple animations (optional)
-⏱️ Time Duration
+Time Duration
 Total Time: 45 Min to 1 hr
 
-🏆 Evaluation Criteria 
-Criteria	Marks
-🎨 Design & Creativity	
-🧱 Structure & Layout	
-🧭 Navigation & Usability	
-⚙️ Functionality	
-📁 Code Organization	
+ Evaluation Criteria:-
+
+ Design & Creativity	
+ Structure & Layout	
+ Navigation & Usability	
+ Functionality	
+ Code Organization	
 
 
-📤 Submission Guidelines
-
-Students must submit:
+Students must submit:-
 
 Complete project folder
 Must include:
@@ -95,9 +100,9 @@ All .html files
 style.css
 Images (if used)
 The project should open correctly in browser using:
-👉 index.html
-🚫 Rules
-❌ No internet required
-❌ No frameworks (Bootstrap, Tailwind, etc.)
-❌ No copying from others
-✅ Work individually or in teams (based on your rule)
+> index.html
+> Rules
+> No internet required
+> No frameworks (Bootstrap, Tailwind, etc.)
+> No copying from others
+> Work individually or in teams (based on your rule)
