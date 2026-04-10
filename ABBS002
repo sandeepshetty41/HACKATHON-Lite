@@ -1,0 +1,215 @@
+✅ Q1: Fibonacci Series (Up to N Terms) ( 7 Points )
+🧾 Problem Statement:
+
+The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones.
+
+Write a program to print the first N terms of the Fibonacci series.
+
+📘 Explanation:
+First two terms are:
+0 and 1
+Next terms are calculated as:
+next = previous + current
+
+Example sequence:
+0, 1, 1, 2, 3, 5, 8, ...
+
+📥 Input:
+A single integer N (number of terms)
+📤 Output:
+Print N Fibonacci numbers separated by space
+🔍 Example:
+
+Input:
+
+5
+
+Output:
+
+0 1 1 2 3
+⚠️ Constraints:
+1 ≤ N ≤ 50
+💡 Concepts Tested:
+Loops
+Variables
+Sequence logic
+
+✅ Q2: Armstrong Number ( 5 Points )
+🧾 Problem Statement:
+
+An Armstrong number is a number that is equal to the sum of its digits raised to the power of the number of digits.
+
+Write a program to check whether a given number is an Armstrong number.
+
+📘 Explanation:
+
+Example:
+Number = 153
+Digits = 1, 5, 3
+Number of digits = 3
+
+Calculation:
+
+1³ + 5³ + 3³ = 1 + 125 + 27 = 153
+
+Since result = original number → Armstrong number ✅
+
+📥 Input:
+A single integer N
+📤 Output:
+Print:
+"Armstrong Number" OR
+"Not an Armstrong Number"
+🔍 Example:
+
+Input:
+
+153
+
+Output:
+
+Armstrong Number
+⚠️ Constraints:
+1 ≤ N ≤ 10000
+💡 Concepts Tested:
+Loops
+Digit extraction
+Mathematical operations
+
+✅ Q3: Prime Numbers in a Range ( 5 Points )
+🧾 Problem Statement:
+
+A prime number is a number greater than 1 that has only two factors: 1 and itself.
+
+Write a program to print all prime numbers between two given integers.
+
+📘 Explanation:
+
+To check if a number is prime:
+
+It should not be divisible by any number from 2 to √n
+📥 Input:
+Two integers:
+start end
+📤 Output:
+Print all prime numbers in the range
+🔍 Example:
+
+Input:
+
+10 20
+
+Output:
+
+11 13 17 19
+⚠️ Constraints:
+1 ≤ start < end ≤ 1000
+💡 Concepts Tested:
+Nested loops
+Conditional statements
+Number logic
+
+✅ Q4: Sort an Array (Without Built-in Functions) ( 5 Points )
+🧾 Problem Statement:
+
+Write a program to sort N numbers in ascending order without using any built-in sorting functions.
+
+📘 Explanation:
+
+You must implement sorting manually using:
+
+Bubble Sort OR
+Selection Sort
+📥 Input:
+N
+array elements
+📤 Output:
+Sorted array in ascending order
+🔍 Example:
+
+Input:
+
+5
+4 2 1 5 3
+
+Output:
+
+1 2 3 4 5
+⚠️ Constraints:
+1 ≤ N ≤ 100
+💡 Concepts Tested:
+Arrays
+Nested loops
+Sorting algorithms
+
+✅ Q5: Second Largest Element in Array ( 5 Points )
+🧾 Problem Statement:
+
+Write a program to find the second largest number in a list of integers.
+
+📘 Explanation:
+You need to find the largest and second largest numbers
+Do not sort using built-in functions (optional constraint)
+📥 Input:
+N
+array elements
+📤 Output:
+Print the second largest element
+🔍 Example:
+
+Input:
+
+5
+10 20 4 45 99
+
+Output:
+
+45
+⚠️ Constraints:
+2 ≤ N ≤ 100
+All elements are integers
+💡 Concepts Tested:
+Arrays
+Logic building
+Comparison operations
+
+
+✅ Q6: Palindrome Number / String ( 8 Points )
+🧾 Problem Statement:
+
+A palindrome is a number or string that reads the same forward and backward.
+
+Write a program to check whether the given input is a palindrome.
+
+🔹 Option 1: Palindrome Number
+📘 Explanation:
+
+A number is a palindrome if:
+
+Reverse of the number = original number
+
+Example:
+
+121 → reverse = 121 ✅
+123 → reverse = 321 ❌
+📥 Input:
+A single integer N
+📤 Output:
+Print:
+"Palindrome" OR
+"Not a Palindrome"
+🔍 Example:
+
+Input:
+
+121
+
+Output:
+
+Palindrome
+⚠️ Constraints:
+0 ≤ N ≤ 100000
+💡 Concepts Tested:
+Loops
+Reverse logic
+Arithmetic operations
