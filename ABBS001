@@ -1,4 +1,4 @@
-Round 1 ( Total Time Duration = 25 Minutes )
+Round 1 - 20 Points ( Total Time Duration = 25 Minutes ) 
 
 Q1. Even or Odd ( 3 Points )
 
@@ -16,7 +16,7 @@ Input: 7
 Output: Odd
 
 
-Q2. Sum of First N Numbers ( 3 Points )
+Q2. Sum of First N Numbers ( 4 Points )
 
 Write a program to find the sum of first n natural numbers.
 
@@ -46,7 +46,7 @@ Input: 5
 Output: 120
 
 
-Q4. Find Largest Number ( 2 Points )
+Q4. Find Largest Number ( 5 Points )
 
 Write a program to find the largest among three numbers.
 
@@ -61,20 +61,83 @@ Input: 4 9 2
 Output: 9
 
 
-Q5. Find Missing Number ( 4 Points )
 
-Write a program to find the missing number in a sequence from 1 to n.
+---------- Debugging the codes ( 10 Points ) -------------
 
-Input:
-n and n-1 numbers
+Q1. ( 2 Points )
+#include <stdio.h>
 
-Output:
-Missing number
+int main() {
+    int scores[5] = {88, 92, 79, 95, 81};
+    
+    for (int i = 0; i <= 5; i++) {
+        printf("Score %d: %d\n", i + 1, scores[i]);
+    }
+    
+    return 0;
+}
 
-Example:
-Input:
-5
-1 2 3 5
 
-Output:
-4
+/** Output:
+Score 1: 88
+Score 2: 92
+Score 3: 79
+Score 4: 95
+Score 5: 81
+**/
+
+Q2. ( 2 Points )
+#include <stdio.h>
+
+int main() {
+    printf("Starting system...\n");
+
+    for (int i = 0; i < 5; i++);
+    {
+        printf("Loading...\n");
+    }
+
+    return 0;
+}
+
+/* Output:
+Starting system...
+Loading...
+Loading...
+Loading...
+Loading...
+Loading...
+ */
+
+Q3. ( 2 Points )
+#include <stdio.h>
+
+int main() {
+    int user_age;
+
+    printf("Enter your age: ");
+    scanf("%d", user_age); 
+
+    printf("You are %d years old.\n", user_age);
+    return 0;
+}
+
+Q4. ( 2 Points )
+age = input("Enter Your Age: ")
+future_age = age + 5
+
+print("In Five Years, You Will be" + future_age)
+
+Q5. ( 2 Points )
+ # swapping: output-> a:10 , b:5
+a = 5
+b = 10
+
+a = b
+b = a
+
+print(f"a: {a}, b: {b}")
+
+
+
+
