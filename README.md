@@ -1,1 +1,21 @@
-# HACKATHON-Lite
+----------------------------------WELCOME TO SANGAM 2026- HACKATHON YOUNG MINDS------------------------------------------
+
+STEPS:
+STEP1: Click on ABBS001 file for 1st Round which weighs for 20 Points you can use any of your comfortable programming language for coding ( C,Python,C++,java).
+
+STEP2: Click on ABBS002 file for 2nd Round which weighs for 30 Points + 6 Bonus Points ( You can solve the questions if you want to gain the points ) you can use any of your comfortable programming language for coding ( C,Python,C++,java).
+
+STEP 3: After completion of the coding call the oordinators explain your code, show your output, then the coordinators will guide you for the next round. 
+
+-----------------------------------------------------BREAK TIME------------------------------------------------------------
+
+RULES 
+RULE1: Click on School Website UI file, a clear explanation of the website creation is given. Use the given description for creating your own unique attractive website, Maintain the time limit 45 minutes to create the website and 5 Mins for presenting your website to the judges.
+
+RULE2: Based on your 
+> Explanation
+> Unique features 
+> Creativity
+> Usage of AI tools
+> Technical implementation
+
