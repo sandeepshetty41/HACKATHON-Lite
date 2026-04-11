@@ -40,7 +40,7 @@ Sequence logic
 Q2: Leaders in an Array ( 8 Points )
 Problem Statement:
 
-An element in an array is called a leader if it is greater than or equal to all the elements to its right side.
+An element in an array is called a leader if it is greater than  to all the elements to its right side.
 
 Write a program to find and print all the leaders in the array.
 
